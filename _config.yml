@@ -9,7 +9,7 @@ safe: true
 url: http://mr-karan.github.io/resume
 author: Karan Sharma
 
-baseurl: 
+baseurl: /resume/
 title: Karan Sharma's Resume
 name: Karan Sharma
 email: karansharma1295@gmail.com
