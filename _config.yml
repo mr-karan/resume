@@ -9,7 +9,7 @@ safe: true
 url: http://mr-karan.github.io/resume
 author: Karan Sharma
 
-baseurl: /resume
+baseurl: 
 title: Karan Sharma's Resume
 name: Karan Sharma
 email: karansharma1295@gmail.com
@@ -19,7 +19,4 @@ github: mr-karan
 twitter: mrkaran_
 tel: +91 9650 318721
 tel_full: tel:+919650318721
-postcode: DD2 1ES
-city: New Delhi
-country: India
 
