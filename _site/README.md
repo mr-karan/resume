@@ -16,3 +16,7 @@ resume
 
 *To make changes:* 
 Edit the site attributes in `_config.yml` and edit the various entries in `_includes/.`
+
+## Screenshot 
+
+![](static/img/resumescreenshot.png)
